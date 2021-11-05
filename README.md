@@ -12,6 +12,6 @@ _If you're looking for the CSF format for creating Storybook stories, check out 
 
 Learn more about Applitools [Eyes](https://info.applitools.com/ucY77) and the [Ultrafast Test Cloud](https://info.applitools.com/ucY78) at [applitools.com](https://info.applitools.com/ucY76).
 
-More about the Eyes Images SDK:
+More about the Eyes Images SDK :
 * https://www.npmjs.com/package/@applitools/eyes-storybook
 * https://applitools.com/docs/api/eyes-sdk/indexm/classindex-storybook-javascript.html
