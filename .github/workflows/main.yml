@@ -37,6 +37,8 @@ jobs:
           node-version: '14.x'
       - name: Check directory
         run: pwd
+      - name: Change directory
+        run: cd ..
       - name: Run Tests
         run: npm test
     
